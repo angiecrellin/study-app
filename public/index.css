@@ -1,18 +1,18 @@
 body {
-  background-color: wheat;
+  background-color: #008975;
   font-family: 'Raleway', sans-serif;
 }
 .header {
   text-align: center;
-  color: saddlebrown;
+  color: #fff;
 }
 
 .spinner {
-  color: saddlebrown;
+  color: #fff;
 }
 
 .box {
-  background-color: wheat;
+  // background-color: #68EFAD;
    }
 
 .ReactFlipCard {
@@ -30,16 +30,16 @@ body {
   .ReactFlipCard__Front,
   .ReactFlipCard__Back {
     border-radius: 10px;
-    border: 1px solid saddlebrown;
+    border: 3px solid #fff;
     padding: 25px;
   }
   .ReactFlipCard__Front {
-    background-color: linen;
-    color: darkolivegreen;
+    background-color: #00BF9A;
+    color: #fff;
   }
   .ReactFlipCard__Back {
-    background-color: linen;
-    color: olivedrab;
+    background-color: #00BF9A;
+    color: #fff;
   }
 
   button {
@@ -53,9 +53,9 @@ body {
   }
 
   .backButton {
-    color: saddlebrown;
-    background-color: linen;
-    border: 1px solid saddlebrown;
+    color: #fff;
+    background-color: #00BF9A;
+    border: 3px solid #fff;
     border-radius: 5px;
     margin-bottom: 25px;
   }
