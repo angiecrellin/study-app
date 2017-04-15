@@ -22,12 +22,6 @@ const receiveData = (results) => {
   }
 }
 
-/*export const getSets = (title) => {
-  return {
-    type: 'GET_SETS',
-    title
-  }
-}*/
 
 export const showCard = () => {
   return {
